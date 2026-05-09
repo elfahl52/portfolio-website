@@ -10,7 +10,6 @@ A modern, responsive portfolio website showcasing professional web development s
 - **Achievements Section** - Showcase of professional accomplishments
 - **Portfolio Gallery** - Filterable project showcase
 - **Contact Form** - Professional contact section with validation
-- **Dark Mode** - Toggle between light and dark themes
 - **Smooth Scrolling** - Enhanced navigation experience
 - **Loading States** - Professional loading spinners and transitions
 
@@ -59,7 +58,6 @@ Fokir Project/
 ## ⚡ Interactive Features
 
 - **Typing Animation** - Professional text typing effect
-- **Dark Mode Toggle** - Persistent theme switching
 - **Portfolio Filter** - Category-based project filtering
 - **Counter Animation** - Intersection Observer triggered
 - **Pricing Cards** - Hover effects and ripple animations
@@ -83,28 +81,13 @@ Fokir Project/
 - ✅ **Performance** - Optimized loading and interactions
 - ✅ **SEO Ready** - Semantic HTML structure
 - ✅ **Cross-Browser** - Works on all modern browsers
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
-   ```
-
-2. **Navigate to project**
-   ```bash
-   cd portfolio-website
-   ```
-
-3. **Open in browser**
-   - Simply open `index.html` in your preferred browser
-   - No build process required - ready to use!
+ 
 
 ## 📧 Contact
 
-- **Email**: info@fokirpro.com
-- **Phone**: +1 (555) 123-4567
-- **Location**: New York, NY
+- **Email**: khaledelfahl56@gmail.com
+- **Phone**: 01270686220
+-  
 
 ## 📄 License
 
@@ -113,17 +96,23 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+ 
 ## ⭐ Show Your Support
 
 If you like this portfolio template, please give it a ⭐ on GitHub!
 
 ---
+## 🚀 Live Demo
 
+<p align="center">
+  <a href="https://portfolio-website-ruddy-two-26.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Visit_Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  <i>✅ موقع متجاوب يعمل على جميع الأجهزة - تم النشر عبر Vercel</i>
+</p>
+
+---
 **Created with ❤️ by Khaled Elfahl**
